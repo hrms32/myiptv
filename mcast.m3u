@@ -1,11 +1,192 @@
 #EXTM3U
-#EXTINF:(),(),(CANAL 16 - UNIVISIONmm)
-udp://@224.10.10.95
-#EXTINF:(),(),(CANAL 19 - MEGAVISION)
-udp://@224.10.10.24:10640
-#EXTINF:(),(),(CANAL 22 - TELEMUNDO)
-udp://@224.10.10.44:11140
-#EXTINF:(),(),(CANAL 54 - E!)
-udp://@224.10.10.40:11040
-#EXTINF:(),(),(CANAL 44 - A&E)
-udp://@224.10.10.55:11430
+#EXTVLCOPT:network-caching=1000
+#EXTINF:,,TCS 2	 
+rtp://224.10.10.28:10740
+#EXTINF:,,TCS 4	 
+rtp://224.10.10.18:10520
+#EXTINF:,,TCS VTV	 
+rtp://224.10.10.144:10420
+#EXTINF:,,TCS 6	 
+rtp://224.10.10.13:10410
+#EXTINF:,,Tecnovision 33	 
+rtp://224.10.10.16:10440
+#EXTINF:,,Agape TV	 
+rtp://224.10.10.19:10530
+#EXTINF:,,TVES 10	
+ rtp://224.10.10.17:10510
+#EXTINF:,,TV 12	 
+rtp://224.10.10.25:10710
+#EXTINF:,,Telenovelas	 
+rtp://224.10.10.57:11510
+#EXTINF:,,AZCinema	 
+rtp://224.10.10.62:11620
+#EXTINF:,,Movie World	 
+rtp://224.10.10.20:10540
+#EXTINF:,,Univision	 
+rtp://224.10.10.95:25010
+#EXTINF:,,Tabernáculo	 
+rtp://224.10.10.23:10630
+#EXTINF:,,Canal de las Estrellas	 
+rtp://224.10.10.60:11540
+#EXTINF:,,Megavisión 19	 
+rtp://224.10.10.24:10640
+#EXTINF:,,Azteca Mundo	 
+rtp://224.10.10.63:11630
+#EXTINF:,,Megavisión 21	
+rtp://224.10.10.22:10620
+#EXTINF:,,TeleMundo	 
+rtp://224.10.10.44:11140
+#EXTINF:,,Enlace TBN	 
+rtp://224.10.10.15:10430
+#EXTINF:,,Canal Nacional 61	 
+rtp://224.10.10.27:10730
+#EXTINF:,,EWTN	 
+rtp://224.10.10.9:10310
+#EXTINF:,,Baby TV	 
+rtp://224.10.10.70:11820
+#EXTINF:,,Nick Jr	 
+rtp://224.10.10.46:11220
+#EXTINF:,,Nick	 
+rtp://224.10.10.47:11230
+#EXTINF:,,Tooncast	 
+rtp://224.10.10.94:12340
+#EXTINF:,,Discovery Kids	
+ rtp://224.10.10.53:11410
+#EXTINF:,,Cartoon Network	 
+rtp://224.10.10.89:12230
+#EXTINF:,,Disney Jr	 
+rtp://224.10.10.30:10820
+#EXTINF:,,Disney Channel	 
+rtp://224.10.10.81:12110
+#EXTINF:,,Disney XD	 
+rtp://224.10.10.82:12120
+#EXTINF:,,Boomerang	 
+rtp://224.10.10.87:12210
+#EXTINF:,,Warner Channel	 
+rtp://224.10.10.38:11020
+#EXTINF:,,Sony Channel	 
+rtp://224.10.10.39:11030
+#EXTINF:,,AXN	 
+rtp://224.10.10.33:10910
+#EXTINF:,,A & E	 
+rtp://224.10.10.55:11430
+#EXTINF:,,TBS	 
+tp://224.10.10.26:10720
+#EXTINF:,,SyFy	 
+rtp://224.10.10.72:11840
+#EXTINF:,,Space	 
+rtp://224.10.10.11:10330
+#EXTINF:,,Comedy Central	 
+rtp://224.10.10.37:11010
+#EXTINF:,,FOX	
+rtp://224.10.10.76:11940
+#EXTINF:,,iSAT	 
+rtp://224.10.10.64:11640
+#EXTINF:,,FX	 
+rtp://224.10.10.69:11810
+#EXTINF:,,TNT Series	 
+rtp://224.10.10.41:11110
+#EXTINF:,,E! Television	 
+rtp://224.10.10.40:11040
+#EXTINF:,,FXM	 
+rtp://224.10.10.83:12130
+#EXTINF:,,CineCanal	 
+rtp://224.10.10.84:12140
+#EXTINF:,,Cinemax	 
+rtp://224.10.10.29:10810
+#EXTINF:,,TNT	 
+rtp://224.10.10.88:12220
+#EXTINF:,,Golden	 
+rtp://224.10.10.56:11440
+#EXTINF:,,Paramount	 
+rtp://224.10.10.99:11421
+#EXTINF:,,Studio Universal	 
+rtp://224.10.10.67:11730
+#EXTINF:,,Universal Channel	 
+rtp://224.10.10.73:11910
+#EXTINF:,,TCM	 
+rtp://224.10.10.91:12310
+#EXTINF:,,De Película	 
+rtp://224.10.10.59:11530
+#EXTINF:,,TDN	 
+rtp://224.10.10.61:11610
+#EXTINF:,,ESPN 1	 
+rtp://224.10.10.79:12030
+#EXTINF:,,ESPN 2	 
+rtp://224.10.10.80:12040
+#EXTINF:,,ESPN 3	 
+rtp://224.10.10.10:10320
+#EXTINF:,,FOX Sports 1	 
+rtp://224.10.10.66:11720
+#EXTINF:,,FOX Sports 2	 
+rtp://224.10.10.65:11710
+#EXTINF:,,FOX Sports 3	 
+rtp://224.10.10.68:11740
+#EXTINF:,,TruTV	 
+rtp://224.10.10.92:12320
+#EXTINF:,,Discovery Channel	 
+rtp://224.10.10.54:11420
+#EXTINF:,,Investigation Discovery	 
+rtp://224.10.10.50:11320
+#EXTINF:,,Fox Life	 
+rtp://224.10.10.77:12010
+#EXTINF:,,Home & Health	 
+rtp://224.10.10.49:11310
+#EXTINF:,,TLC	 
+rtp://224.10.10.36:10940
+#EXTINF:,,The History Channel	 
+rtp://224.10.10.51:11330
+#EXTINF:,,H2	 
+rtp://224.10.10.34:10920
+#EXTINF:,,Life Time	 
+rtp://224.10.10.35:10930
+#EXTINF:,,Glitz	 
+rtp://224.10.10.43:11130
+#EXTINF:,,NatGeo	 
+rtp://224.10.10.74:11920
+#EXTINF:,,NatGeo Wild	 
+rtp://224.10.10.71:11830
+#EXTINF:,,Animal Planet	 
+rtp://224.10.10.52:11340
+#EXTINF:,,CNN en Español	 
+rtp://224.10.10.85:11120
+#EXTINF:,,RT Español	 
+rtp://224.10.10.12:10340
+#EXTINF:,,Fox News	 
+rtp://224.10.10.78:12020
+#EXTINF:,,CNN Internacional	 
+rtp://224.10.10.90:12240
+#EXTINF:,,HLN	 
+rtp://224.10.10.223:11223
+#EXTINF:,,BBC News	 
+rtp://224.10.10.86:10910
+#EXTINF:,,ABC	
+rtp://224.10.10.97:11430
+#EXTINF:,,CBS	 
+rtp://224.10.10.98:11440
+#EXTINF:,,NBC	 
+rtp://224.10.10.42:11120
+#EXTINF:,,DW	 
+rtp://224.10.10.6:10220
+#EXTINF:,,France 24	 
+rtp://224.10.10.4:10140
+#EXTINF:,,TVE	 
+rtp://224.10.10.7:10230
+#EXTINF:,,NHK World	 
+rtp://224.10.10.5:10210
+#EXTINF:,,Arirang	 
+rtp://224.10.10.2:10120
+#EXTINF:,,TeleHit	 
+rtp://224.10.10.58:11520
+#EXTINF:,,HTV	 
+rtp://224.10.10.93:12330
+#EXTINF:,,MTV	 
+rtp://224.10.10.45:11210
+#EXTINF:,,VH1	 
+rtp://224.10.10.48:11240
+#EXTINF:,,Much Music	 
+rtp://224.10.10.3:10130
+#EXTINF:,,Visita Cluster 4	
+rtp://224.10.11.5:10029
+#EXTINF:,,Parque Cluster 4	
+rtp://224.10.11.6:10027
