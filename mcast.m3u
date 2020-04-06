@@ -1,191 +1,74 @@
-#EXTM3U
-#EXTINF:,,TCS 2	 
-udp://@224.10.10.28:10740
-#EXTINF:,,TCS 4	 
-udp://@224.10.10.18:10520
-#EXTINF:,,TCS VTV	 
-udp://@224.10.10.144:10420
-#EXTINF:,,TCS 6	 
-udp://@224.10.10.13:10410
-#EXTINF:,,Tecnovision 33	 
-udp://@224.10.10.16:10440
-#EXTINF:,,Agape TV	 
-udp://@224.10.10.19:10530
-#EXTINF:,,TVES 10	
-udp://@224.10.10.17:10510
-#EXTINF:,,TV 12	 
-udp://@224.10.10.25:10710
-#EXTINF:,,Telenovelas	 
-udp://@224.10.10.57:11510
-#EXTINF:,,AZCinema	 
-udp://@224.10.10.62:11620
-#EXTINF:,,Movie World	 
-udp://@224.10.10.20:10540
-#EXTINF:,,Univision	 
-udp://@224.10.10.95:25010
-#EXTINF:,,Tabernáculo	 
-udp://@224.10.10.23:10630
-#EXTINF:,,Canal de las Estrellas	 
-udp://@224.10.10.60:11540
-#EXTINF:,,Megavisión 19	 
-udp://@224.10.10.24:10640
-#EXTINF:,,Azteca Mundo	 
-udp://@224.10.10.63:11630
-#EXTINF:,,Megavisión 21	
-udp://@224.10.10.22:10620
-#EXTINF:,,TeleMundo	 
-udp://@224.10.10.44:11140
-#EXTINF:,,Enlace TBN	 
-udp://@224.10.10.15:10430
-#EXTINF:,,Canal Nacional 61	 
-udp://@224.10.10.27:10730
-#EXTINF:,,EWTN	 
-udp://@224.10.10.9:10310
-#EXTINF:,,Baby TV	 
-udp://@224.10.10.70:11820
-#EXTINF:,,Nick Jr	 
-udp://@224.10.10.46:11220
-#EXTINF:,,Nick	 
-udp://@224.10.10.47:11230
-#EXTINF:,,Tooncast	 
-udp://@224.10.10.94:12340
-#EXTINF:,,Discovery Kids	
- udp://@224.10.10.53:11410
-#EXTINF:,,Cartoon Network	 
-udp://@224.10.10.89:12230
-#EXTINF:,,Disney Jr	 
-udp://@224.10.10.30:10820
-#EXTINF:,,Disney Channel	 
-udp://@224.10.10.81:12110
-#EXTINF:,,Disney XD	 
-udp://@224.10.10.82:12120
-#EXTINF:,,Boomerang	 
-udp://@224.10.10.87:12210
-#EXTINF:,,Warner Channel	 
-udp://@224.10.10.38:11020
-#EXTINF:,,Sony Channel	 
-udp://@224.10.10.39:11030
-#EXTINF:,,AXN	 
-udp://@224.10.10.33:10910
-#EXTINF:,,A & E	 
-udp://@224.10.10.55:11430
-#EXTINF:,,TBS	 
-tp://224.10.10.26:10720
-#EXTINF:,,SyFy	 
-udp://@224.10.10.72:11840
-#EXTINF:,,Space	 
-udp://@224.10.10.11:10330
-#EXTINF:,,Comedy Central	 
-udp://@224.10.10.37:11010
-#EXTINF:,,FOX	
-udp://@224.10.10.76:11940
-#EXTINF:,,iSAT	 
-udp://@224.10.10.64:11640
-#EXTINF:,,FX	 
-udp://@224.10.10.69:11810
-#EXTINF:,,TNT Series	 
-udp://@224.10.10.41:11110
-#EXTINF:,,E! Television	 
-udp://@224.10.10.40:11040
-#EXTINF:,,FXM	 
-udp://@224.10.10.83:12130
-#EXTINF:,,CineCanal	 
-udp://@224.10.10.84:12140
-#EXTINF:,,Cinemax	 
-udp://@224.10.10.29:10810
-#EXTINF:,,TNT	 
-udp://@224.10.10.88:12220
-#EXTINF:,,Golden	 
-udp://@224.10.10.56:11440
-#EXTINF:,,Paramount	 
-udp://@224.10.10.99:11421
-#EXTINF:,,Studio Universal	 
-udp://@224.10.10.67:11730
-#EXTINF:,,Universal Channel	 
-udp://@224.10.10.73:11910
-#EXTINF:,,TCM	 
-udp://@224.10.10.91:12310
-#EXTINF:,,De Película	 
-udp://@224.10.10.59:11530
-#EXTINF:,,TDN	 
-udp://@224.10.10.61:11610
-#EXTINF:,,ESPN 1	 
-udp://@224.10.10.79:12030
-#EXTINF:,,ESPN 2	 
-udp://@224.10.10.80:12040
-#EXTINF:,,ESPN 3	 
-udp://@224.10.10.10:10320
-#EXTINF:,,FOX Sports 1	 
+#EXTINF:(),(),(FOX Sports 1)	 
 udp://@224.10.10.66:11720
-#EXTINF:,,FOX Sports 2	 
+#EXTINF:(),(),(FOX Sports 2)	 
 udp://@224.10.10.65:11710
-#EXTINF:,,FOX Sports 3	 
+#EXTINF:(),(),(FOX Sports 3)	 
 udp://@224.10.10.68:11740
-#EXTINF:,,TruTV	 
+#EXTINF:(),(),(TruTV)	 
 udp://@224.10.10.92:12320
-#EXTINF:,,Discovery Channel	 
+#EXTINF:(),(),(Discovery Channel)	 
 udp://@224.10.10.54:11420
-#EXTINF:,,Investigation Discovery	 
+#EXTINF:(),(),(Investigation Discovery)	 
 udp://@224.10.10.50:11320
-#EXTINF:,,Fox Life	 
+#EXTINF:(),(),(Fox Life)	 
 udp://@224.10.10.77:12010
-#EXTINF:,,Home & Health	 
+#EXTINF:(),(),(Home & Health)	 
 udp://@224.10.10.49:11310
-#EXTINF:,,TLC	 
+#EXTINF:(),(),(TLC)	 
 udp://@224.10.10.36:10940
-#EXTINF:,,The History Channel	 
+#EXTINF:(),(),(The History Channel)	 
 udp://@224.10.10.51:11330
-#EXTINF:,,H2	 
+#EXTINF:(),(),(H2)	 
 udp://@224.10.10.34:10920
-#EXTINF:,,Life Time	 
+#EXTINF:(),(),(Life Time)	 
 udp://@224.10.10.35:10930
-#EXTINF:,,Glitz	 
+#EXTINF:(),(),(Glitz)	 
 udp://@224.10.10.43:11130
-#EXTINF:,,NatGeo	 
+#EXTINF:(),(),(NatGeo)	 
 udp://@224.10.10.74:11920
-#EXTINF:,,NatGeo Wild	 
+#EXTINF:(),(),(NatGeo Wild)	 
 udp://@224.10.10.71:11830
-#EXTINF:,,Animal Planet	 
+#EXTINF:(),(),(Animal Planet)	 
 udp://@224.10.10.52:11340
-#EXTINF:,,CNN en Español	 
+#EXTINF:(),(),(CNN en Español)	 
 udp://@224.10.10.85:11120
-#EXTINF:,,RT Español	 
+#EXTINF:(),(),(RT Español)	 
 udp://@224.10.10.12:10340
-#EXTINF:,,Fox News	 
+#EXTINF:(),(),(Fox News)	 
 udp://@224.10.10.78:12020
-#EXTINF:,,CNN Internacional	 
+#EXTINF:(),(),(CNN Internacional)	 
 udp://@224.10.10.90:12240
-#EXTINF:,,HLN	 
+#EXTINF:(),(),(HLN)	 
 udp://@224.10.10.223:11223
-#EXTINF:,,BBC News	 
+#EXTINF:(),(),(BBC News)	 
 udp://@224.10.10.86:10910
-#EXTINF:,,ABC	
+#EXTINF:(),(),(ABC)	
 udp://@224.10.10.97:11430
-#EXTINF:,,CBS	 
+#EXTINF:(),(),(CBS)	 
 udp://@224.10.10.98:11440
-#EXTINF:,,NBC	 
+#EXTINF:(),(),(NBC)	 
 udp://@224.10.10.42:11120
-#EXTINF:,,DW	 
+#EXTINF:(),(),(DW)	 
 udp://@224.10.10.6:10220
-#EXTINF:,,France 24	 
+#EXTINF:(),(),(France 24)	 
 udp://@224.10.10.4:10140
-#EXTINF:,,TVE	 
+#EXTINF:(),(),(TVE)	 
 udp://@224.10.10.7:10230
-#EXTINF:,,NHK World	 
+#EXTINF:(),(),(NHK World)	 
 udp://@224.10.10.5:10210
-#EXTINF:,,Arirang	 
+#EXTINF:(),(),(Arirang)	 
 udp://@224.10.10.2:10120
-#EXTINF:,,TeleHit	 
+#EXTINF:(),(),(TeleHit)	 
 udp://@224.10.10.58:11520
-#EXTINF:,,HTV	 
+#EXTINF:(),(),(HTV)	 
 udp://@224.10.10.93:12330
-#EXTINF:,,MTV	 
+#EXTINF:(),(),(MTV)	 
 udp://@224.10.10.45:11210
-#EXTINF:,,VH1	 
+#EXTINF:(),(),(VH1)	 
 udp://@224.10.10.48:11240
-#EXTINF:,,Much Music	 
+#EXTINF:(),(),(Much Music)	 
 udp://@224.10.10.3:10130
-#EXTINF:,,Visita Cluster 4	
+#EXTINF:(),(),(Visita Cluster 4)	
 udp://@224.10.11.5:10029
-#EXTINF:,,Parque Cluster 4	
+#EXTINF:(),(),(Parque Cluster 4)	
 udp://@224.10.11.6:10027
